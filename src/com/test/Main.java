@@ -1,7 +1,7 @@
 package com.test;
 
 public class Main {
-	//测试，test
+	//测试，test ,test2
 	DistributedLock lock = null;
  
 	public static void main(String[] args) {
