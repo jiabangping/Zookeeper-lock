@@ -1,9 +1,9 @@
 package com.test;
 
 public class Main {
-
+	//≤‚ ‘Ã·Ωª
 	DistributedLock lock = null;
-
+ 
 	public static void main(String[] args) {
 		new Main().test();
 	}
