@@ -8,3 +8,11 @@ A 提交到 a.txt 到github
 B 还未从github 将a.txt 更新下来，就要将自己写的 a.txt提交到 github上，提交时会冲突
 
 解决：
+eclipse git最基本使用
+http://www.bkjia.com/Javabc/884793.html
+
+git 在eclipse中应用：http://www.open-open.com/lib/view/open1409129597400.html
+
+
+Eclipse 使用Git的Push出现rejected - non-fast-forward错误
+http://www.eoeandroid.com/thread-896640-1-1.html?_dsign=b277735c
