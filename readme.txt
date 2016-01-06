@@ -19,6 +19,6 @@ http://www.eoeandroid.com/thread-896640-1-1.html?_dsign=b277735c
 
 1、首先 team -pull （fetch好像不起作用）  将远程服务器的东西 pull拉到本地，手动合并后，
 team- 点击冲突的文件 mark mergered  然后commit
+ 
 
-
-eclipse EGit解决版本冲突： http://blog.sina.com.cn/s/blog_4dd787e40102uysg.html
+eclipse EGit解决版本冲突： http://blog.sina.com.cn/s/blog_4dd787e40102uysg.html(比较模糊)
