@@ -1,2 +1,11 @@
-使用zookeeper实现分布式锁服务：http://www.linuxidc.com/Linux/2013-06/85550.htm
+使锟斤拷zookeeper实锟街分诧拷式锟斤拷锟斤拷锟絟ttp://www.linuxidc.com/Linux/2013-06/85550.htm
 
+
+eclipse git鏈�鍩烘湰浣跨敤
+http://www.bkjia.com/Javabc/884793.html
+
+git 鍦╡clipse涓簲鐢細http://www.open-open.com/lib/view/open1409129597400.html
+
+
+Eclipse 浣跨敤Git鐨凱ush鍑虹幇rejected - non-fast-forward閿欒
+http://www.eoeandroid.com/thread-896640-1-1.html?_dsign=b277735c
