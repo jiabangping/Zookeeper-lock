@@ -1,7 +1,7 @@
 package com.test;
 
 public class Main {
-	//测试，test，t 
+	//测试，test ,test2  我再加点来制造冲突问题
 	DistributedLock lock = null;
  
 	public static void main(String[] args) {
