@@ -1,7 +1,7 @@
 package com.test;
 
 public class Main {
-//ÎÒÀ´²âÊÔ¸ü¸ÄÒ»ÏÂ £¬Ã»Ê²Ã´±ä»¯
+//æµ‹è¯•ï¼Œtest ,test2  æˆ‘å†åŠ ç‚¹æ¥åˆ¶é€ å†²çªé—®é¢˜
 	DistributedLock lock = null;
 
 	public static void main(String[] args) {
