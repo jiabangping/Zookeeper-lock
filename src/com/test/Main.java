@@ -8,7 +8,7 @@ public class Main {
 		new Main().test();
 	}
 
-	private void test() {
+	private void test() { 
 		try {
 			lock = new DistributedLock("127.0.0.1:2181", "test");
 			lock.lock();
